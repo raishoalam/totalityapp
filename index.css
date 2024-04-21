@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.bg-container {
+  background-image: url('https://img.freepik.com/premium-photo/forklift-loading-cargo-onto-freight-train-best-forklift-image-photography_1020697-25397.jpg?');
+  background-size: cover;
+  height: 100vh;
+}
+.book-heading {
+  font-size: 80px;
+  font-weight: bold;
+  color: transparent;
+  text-align: center;
+  padding-top: 160px;
+  -webkit-text-stroke: 2px #fff;
+}
